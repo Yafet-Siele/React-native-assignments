@@ -1,7 +1,8 @@
 import React from 'react';
 import { SafeAreaView } from 'react-native';
-import ToDoList from './Week1Component/component/ToDoList';
-import ToDoForm from './Week1Component/component/ToDoForm';
+import ToDoList from './Assignment2Components/ToDoList';
+import ToDoForm from './Assignment2Components/ToDoForm';
+
 
 
 function App() {
