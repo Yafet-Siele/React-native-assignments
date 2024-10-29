@@ -12,6 +12,9 @@ function App() {
       <Link href="/LabAssignment2" style={styles.link}>
         Lab Assignment 2
       </Link>
+      <Link href="/LabAssignment3" style={styles.link}>
+        Lab Assignment 3
+      </Link>
     </SafeAreaView>
   );
 }
